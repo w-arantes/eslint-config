@@ -2,7 +2,7 @@
   "name": "@continuum/eslint-config",
   "version": "1.0.0",
   "private": false,
-  "description": "Continuum ESLint configuration",
+  "description": "ESLint configuration",
   "main": "index.js",
   "license": "MIT",
   "repository": {
